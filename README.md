@@ -9,5 +9,6 @@ Purpose: calculating urban landscape metrics for researchers in the [Biodiversit
 ![download zip](Download_zip.png)
 
 3. In your specified directory, click on the blue "R Project" icon to launch a new project in RStudio. This should load all the R scripts required to calculate the landscape metrics for your sites with specific latitude and longitude.
+![R_project](rproject.PNG)
 
 4. **Important note:** You need the raster file for the 2018 Toronto and Forest Land Cover dataset (file size: 6.69 GB) to calculate the landscape metrics. Due to file storage limits, this file is not available with this GitHub repository. If you have access to the BUGS lab computer, the file-path for the raster (to_2018.TIF) is: This PC > Storage (D:) > data > landvover > to_2018 > raster > uint16 > to_2018.TIF. This file-path should be available for all accounts on the BUGS lab computer (if not, please consult J. Scott MacIvor). Here, there are two options for your workflow are: (1) run the R scripts on your local account on the BUGS lab computer with the raster file on file or (2) move the raster file over to your personal computer and then run the R scripts. 

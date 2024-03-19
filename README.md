@@ -1,5 +1,5 @@
 # BUGS_landscapes
-Calculating urban landscape metrics for the BUGS lab @ UTSC
+Purpose: calculating urban landscape metrics for researchers in the (Biodiversity of Urban Green Spaces lab)[https://www.macivorlab.ca/] at the University of Toronto
 
 Steps to use the R scripts (**the easy way**)
 1. For personal use on your computer (Mac and Windows), you can download the entire workflow (R scripts and R project) by first clicking on the Code button (green)

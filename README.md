@@ -6,3 +6,5 @@ Steps to use the R scripts
 
 ![green button](Green_button.png)
 
+![download zip](Download_zip.png)
+
